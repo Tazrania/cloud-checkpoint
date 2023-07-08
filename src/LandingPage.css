@@ -1,0 +1,49 @@
+.contain-land{
+    height: 700px;
+
+}
+
+.child-land{
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+
+.prems{
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    border-radius: 10px;
+    height: 500px;
+    width: 45%;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.title-land{
+    font-weight: bold;
+    color: #a03c98;
+    margin-left: 30px;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.block-land{
+    width: 350px;
+    margin-left: 50px;
+
+}
+
+.sndblk{
+    width: 350px;
+    margin-left: 300px;
+    color: #a03c98;
+}
+
+.second{
+    float: right;
+    box-shadow: 0px 7px 29px 0px #64646f33;
+    border-radius: 10px;
+    height: 500px;
+    width: 45%;
+    margin-top: 140px;
+    margin-left: 50px;
+}

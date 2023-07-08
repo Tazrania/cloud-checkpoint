@@ -1,0 +1,28 @@
+nav {
+    background-color: #d36fd760;
+    height: 70px;
+    padding: 10px;
+}
+
+.nav-contain {
+    list-style-type: none;
+    margin-right: 80px;
+
+}
+
+.nav-nav{
+    float: right;
+    margin-right: 80px;
+    
+}
+
+.nav-list {
+    text-decoration: none;
+    color: #333;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #a653a9;
+    font-weight: bold;
+}
+
+
